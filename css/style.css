@@ -1,0 +1,19 @@
+#title{color: rgb(34, 50, 95);     font-size: 4em; margin-left: 30px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
+    font-weight: 900; font-family: 'Courier New', Courier, monospace;}
+#div1, #div2{background-color:rgb(196, 194, 194); text-align: justify; 
+    padding: 0; margin: 0; padding-left: 25px; padding-right: 25px;
+    font-family: 'Courier New', Courier, monospace; margin-bottom: 5px;
+    display: inline-block; width:40%;vertical-align: top; height: 250px}
+#div3, #div4{background-color: rgb(61, 60, 60);
+    padding-left: 25px; padding-right: 25px; font-family: 'Courier New', Courier, monospace;
+    text-align: justify; margin-bottom: 5px;
+     display: inline-block; width:40%; color: rgb(223, 219, 219);height: 250px;vertical-align: top}
+#div5, #div6{background-color:rgb(196, 194, 194); padding-left: 25px; padding-right: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block; width:40%;height: 250px;vertical-align: top;text-align: justify}
+#div1:hover, #div2:hover, #div3:hover, #div4:hover, #div5:hover, #div6:hover{border-style:solid; border-color: black;
+border-bottom-width: 8px}
+h2{font-style: inherit; font-family: 'Courier New', Courier, monospace;}
+#div1, #div3, #div5{margin-left: 20px}
+#div2, #div4, #div6{margin-right: 20px}
